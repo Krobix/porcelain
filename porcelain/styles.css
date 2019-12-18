@@ -1,0 +1,32 @@
+*{
+	font-face: "Comic Sans MS", "Comic Sans";
+}
+
+.title {
+	font-size: 48px;
+	text-align: center;
+	border: 10px solid black;
+}
+
+#page-content {
+	font-size: 22;
+}
+
+button {
+	border: 0;
+	text-align: center;
+	background-color: #be03fc;
+	color: #fff;
+	text-shadow: 1px 1px 1px #000;
+	box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6), inset -2px -2px 3px rgba(0, 0, 0, .6);
+	font-size: 50px;
+	padding: 25px;
+	width: 100%;
+}
+
+img {
+	display: block;
+ 	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
